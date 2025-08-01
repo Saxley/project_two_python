@@ -42,7 +42,7 @@
 
 > <img src="images_test/tree_coordenate.png" width="500" alt="Si el usuario agrega mas de una coordenada sera notificado del hecho">
 
-# main.py
+# Luis_Javier_Arriaga_Carranza_proyectoM2.py es mi main
 
 > Importa ambas funciones para que puedan ser utilizadas, se agrego para no tener que ejecutar cada uno de forma individual, se encapsulo el proyecto en una funcion para su reutilización, brinda un menu, para que se pueda elegir el programa deseado.
 
