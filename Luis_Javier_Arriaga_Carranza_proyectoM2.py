@@ -8,7 +8,7 @@ if __name__ == "__main__":
         if option == "3": # if option is equal to 3 then finish the program
             execute = False
             break
-        if option != "1" or option != "2": # if opton is different of 1 or 2 then show a respect message in the screen
+        if option != "1" and option != "2": # if opton is different of 1 and 2 then show a respect message in the screen
             tries += 1 # add one to count tries
             print("_____________________________\n")
             print("Elige una de las 2 opciones. Digita el numero que deseas ejecutar.\nEjemplo: 1")
